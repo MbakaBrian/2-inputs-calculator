@@ -1,0 +1,10 @@
+.but{
+    padding: 20px;
+    margin: 10px;
+    border-radius: 15%;
+    color: aliceblue;
+    background-color: blueviolet;
+}
+body{
+    background-color: aqua;
+}
